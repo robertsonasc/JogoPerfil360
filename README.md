@@ -27,8 +27,8 @@ Este jogo é baseado no jogo de tabuleiro Perfil 6 da empresa Grow, com algumas 
 `java -jar nomeDoExecutavel.jar`
 
 ## Prints do Jogo
-![](https://github.com/robertsonasc/JogoPerfil360/blob/master/prints/01%20-%20Perfil360.png "Informações iniciais")
+![](https://github.com/robertsonasc/JogoPerfil360/blob/master/prints/01%20-%20Perfil360nv.png "Informações iniciais")
 ***
-![](https://github.com/robertsonasc/JogoPerfil360/blob/master/prints/02%20-%20Perfil360.png "Jogo executando")
+![](https://github.com/robertsonasc/JogoPerfil360/blob/master/prints/02%20-%20Perfil360nv.png "Jogo executando")
 ***
-![](https://github.com/robertsonasc/JogoPerfil360/blob/master/prints/03%20-%20Perfil360.png "Jogo executando")
+![](https://github.com/robertsonasc/JogoPerfil360/blob/master/prints/03%20-%20Perfil360nv.png "Jogo executando")
