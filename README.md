@@ -3,10 +3,10 @@ Este jogo é baseado no jogo de tabuleiro Perfil 6 da empresa Grow, com algumas 
 
 ## Para jogar 
 #### Obs: Sobre o arquivo cartas.txt
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este arquivo funciona como o "banco de dados" deste jogo. Perceba que ele possui um padrão de escrita, onde por exemplo, no trecho: 
-`Sol-lugar:`
-`Posso estar alto ou baixo.;`
-`Tenho manchas.;`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este arquivo funciona como o "banco de dados" deste jogo. Perceba que ele possui um padrão de escrita, onde por exemplo, no trecho: <br>
+`Sol-lugar:`<br>
+`Posso estar alto ou baixo.;`<br>
+`Tenho manchas.;`<br>
 "Sol" é a resposta, "lugar" é o tipo de coisa correspondente a resposta, e as frases que precedem o caractere ";" são as dicas, que sempre serão 20.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uma ressalva importante sobre a possibilidade de modificação no arquivo cartas.txt, é que, se for seguido o padrão estabelecido de 5 cartas, e 20 dicas por carta, o jogo irá funcionar corretamente. 
